@@ -215,7 +215,7 @@ python inference.py --video_path path_to_your_video.mp4
 The results will be saved in the `results` directory.
 
 ---
-
-Feel free to contribute to this project by opening issues or submitting pull requests. For any questions, please contact [your email].
+The model and Google Drive link is available upon request.
+Feel free to contribute to this project by opening issues or submitting pull requests. 
 
 Happy coding! 🚀
