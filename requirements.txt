@@ -1,17 +1,13 @@
-# Core dependencies
 numpy
 pandas
 matplotlib
 seaborn
 scikit-learn
-
-# Computer vision and image processing
 opencv-python
 Pillow
-
-# Deep learning framework
 torch
 torchvision
+jupyter
 
 # YOLOv8 specific dependencies
 ultralytics
@@ -22,9 +18,6 @@ PyYAML
 
 # For handling video processing
 moviepy
-
-# Jupyter notebook for interactive development
-jupyter
 
 # For downloading datasets
 gdown
