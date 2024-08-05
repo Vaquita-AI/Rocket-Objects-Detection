@@ -1,30 +1,30 @@
 # Core dependencies
-numpy==1.21.2
-pandas==1.3.3
-matplotlib==3.4.3
-seaborn==0.11.2
-scikit-learn==0.24.2
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
 
 # Computer vision and image processing
-opencv-python==4.5.3.56
-Pillow==8.3.2
+opencv-python
+Pillow
 
 # Deep learning framework
-torch==1.9.0
-torchvision==0.10.0
+torch
+torchvision
 
 # YOLOv8 specific dependencies
-ultralytics==8.0.0
+ultralytics
 
 # Utilities
-tqdm==4.62.3
-PyYAML==5.4.1
+tqdm
+PyYAML
 
 # For handling video processing
-moviepy==1.0.3
+moviepy
 
 # Jupyter notebook for interactive development
-jupyter==1.0.0
+jupyter
 
 # For downloading datasets
-gdown==4.2.0
+gdown
